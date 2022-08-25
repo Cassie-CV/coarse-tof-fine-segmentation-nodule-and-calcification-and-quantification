@@ -1,1 +1,1 @@
-# coarse-tof-fine-segmentation-nodule-and-calcification-and-quantification
+# coarse-to-fine segmentation nodule and calcification, quantification calcification.
