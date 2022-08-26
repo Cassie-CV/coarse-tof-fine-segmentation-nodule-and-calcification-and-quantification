@@ -1,1 +1,1 @@
-# coarse-to-fine segmentation nodule and calcification, quantification calcification.
+# coarse-to-fine segmentation thyroid nodule and calcification, quantification calcification.
